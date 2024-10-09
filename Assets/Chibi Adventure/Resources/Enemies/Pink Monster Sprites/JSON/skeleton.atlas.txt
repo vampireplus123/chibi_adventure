@@ -1,0 +1,83 @@
+
+skeleton.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Monster H-10
+  rotate: true
+  xy: 578, 359
+  size: 638, 551
+  orig: 756, 614
+  offset: 59, 27
+  index: -1
+Monster H-11
+  rotate: true
+  xy: 1131, 360
+  size: 637, 551
+  orig: 757, 614
+  offset: 62, 27
+  index: -1
+body00
+  rotate: true
+  xy: 2, 322
+  size: 675, 574
+  orig: 713, 609
+  offset: 22, 20
+  index: -1
+eye00
+  rotate: true
+  xy: 1065, 125
+  size: 232, 193
+  orig: 232, 193
+  offset: 0, 0
+  index: -1
+eye00a
+  rotate: false
+  xy: 1220, 60
+  size: 63, 63
+  orig: 63, 63
+  offset: 0, 0
+  index: -1
+eye00b
+  rotate: true
+  xy: 1016, 7
+  size: 116, 115
+  orig: 184, 166
+  offset: 39, 30
+  index: -1
+eye01
+  rotate: true
+  xy: 839, 125
+  size: 232, 224
+  orig: 232, 224
+  offset: 0, 0
+  index: -1
+eye01a
+  rotate: false
+  xy: 1133, 38
+  size: 85, 85
+  orig: 85, 85
+  offset: 0, 0
+  index: -1
+eye01b
+  rotate: false
+  xy: 839, 2
+  size: 175, 121
+  orig: 184, 166
+  offset: 8, 34
+  index: -1
+misc00
+  rotate: false
+  xy: 2, 32
+  size: 635, 288
+  orig: 635, 288
+  offset: 0, 0
+  index: -1
+mouth00
+  rotate: true
+  xy: 639, 32
+  size: 325, 198
+  orig: 345, 215
+  offset: 7, 8
+  index: -1

@@ -1,0 +1,1363 @@
+fileFormatVersion: 2
+guid: 5c7bc53ee663b45c5b4fc408f1b0e1e9
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Village Props 256x256_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1542
+        width: 211
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cb1a2e2fe7eac4a9d48f9f79044233
+      internalID: 420867045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_1
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1538
+        width: 124
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67da26a82d5372d41938cfd98c213a6a
+      internalID: 393863041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_2
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 1538
+        width: 236
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff311eb1ef877e54ea1cc6d030520c4a
+      internalID: -573909288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_3
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1542
+        width: 231
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7bffed5ec91967c4a8eb9b436293610a
+      internalID: -423614389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_4
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 1542
+        width: 240
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b12a5ec4ff7cf7642bbb418f11ecd0f9
+      internalID: 774934523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_5
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 1549
+        width: 210
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: beb49aacfa756874095ad8794fe7fea5
+      internalID: -897875228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_6
+      rect:
+        serializedVersion: 2
+        x: 1542
+        y: 1531
+        width: 241
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62918735c90e22941af7d359175cb879
+      internalID: 257619102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_7
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 1554
+        width: 240
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a0ff9f12013cf54e8ded2850b22187b
+      internalID: -1877307104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_8
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1307
+        width: 201
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9be9bb7fe8fa178448a926cecdfb5fef
+      internalID: -221133773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_9
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1279
+        width: 64
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f113a7f9c65643bd701527de0825f
+      internalID: -176424077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_10
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1287
+        width: 213
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093012be3fbe12c458217555bd96d02c
+      internalID: -433096575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_11
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1285
+        width: 197
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d8f997a0bb032c4caca4373f34a3455
+      internalID: 221750814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_12
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 1286
+        width: 144
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 596593926efdf4a4097391d44c8e849a
+      internalID: -225380709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_13
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 1283
+        width: 226
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b40c210d95171b408785dba9e99f3c9
+      internalID: -272579386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_14
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 1283
+        width: 250
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4307416fe3c60a46ad3b3b248fc3cf9
+      internalID: -776167988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_15
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 1285
+        width: 233
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6619232a987bbc4f801d93df4a3ee56
+      internalID: 862728791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1029
+        width: 246
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 199fea822e63a35498ec8c603c8409ca
+      internalID: 472964913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_17
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1026
+        width: 224
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9727ea14092901d46873e5b7d0df9a1d
+      internalID: 547594438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_18
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1020
+        width: 239
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93130eef182dfb14fb9111aca8ab72f6
+      internalID: 576690469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_19
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1020
+        width: 83
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3791a83565c1f93459f2aab51dcdff6c
+      internalID: -2022628119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_20
+      rect:
+        serializedVersion: 2
+        x: 1062
+        y: 1032
+        width: 179
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee5fc7dedb87734690fcb68435fc104
+      internalID: 305684757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_21
+      rect:
+        serializedVersion: 2
+        x: 1281
+        y: 1024
+        width: 251
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ff5dfe876b4b264a8e297b8374c40e5
+      internalID: 1413500758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_22
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1024
+        width: 252
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4de2fd2d20528c846b59ac4b820f176e
+      internalID: -702158736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_23
+      rect:
+        serializedVersion: 2
+        x: 1894
+        y: 1024
+        width: 50
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d1b77bf49a59c4db7f8d135d967ce4
+      internalID: 541020209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_24
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 770
+        width: 143
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f18f9d6339a00b849b77cd94794a16e0
+      internalID: -234461198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_25
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 773
+        width: 112
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b153b7ada5695d44a815038e74459f31
+      internalID: -1212830328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_26
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 769
+        width: 247
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c10f4220d39a34b9b41a65f6195548
+      internalID: -89278991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_27
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 782
+        width: 223
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 763a967a4c183a94fa887f217de40a92
+      internalID: 1583175547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_28
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 787
+        width: 240
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47f0a38b417ab74499b0a09de6c97a0b
+      internalID: 1454883963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_29
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 784
+        width: 237
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4763cdc4bdbc124d91f032a9799b13f
+      internalID: -1772536322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_30
+      rect:
+        serializedVersion: 2
+        x: 1554
+        y: 787
+        width: 207
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269a8c25676863444b4f734b186082f8
+      internalID: -1943650039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_31
+      rect:
+        serializedVersion: 2
+        x: 1816
+        y: 790
+        width: 207
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3c5d059286e5264caf2ff9953612971
+      internalID: -1263822680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 694
+        width: 78
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99b0a4d9c9f223041acb115d58ef3834
+      internalID: -206813103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_33
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 526
+        width: 162
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4d0f8e006f27814e9c7deef5dd615fd
+      internalID: 1672247820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_34
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 516
+        width: 126
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be92b5949da363540ba3e9c037514b33
+      internalID: 124106309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_35
+      rect:
+        serializedVersion: 2
+        x: 1040
+        y: 525
+        width: 214
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b8025f9de1e4e4db597fec539872a2
+      internalID: -1956725079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_36
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 518
+        width: 131
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bcc4cde01853340ba9f8c784611f9c
+      internalID: -817398142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_37
+      rect:
+        serializedVersion: 2
+        x: 1565
+        y: 515
+        width: 192
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db8ef87f5ca7eca4c8b26c250574e5d8
+      internalID: -1793957776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_38
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 520
+        width: 208
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a82857b35dcb9b3439d8d3e54208bfe1
+      internalID: 400610492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_39
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 542
+        width: 207
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a8d7be492c743c4796f5b48281a5acf
+      internalID: -63829900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_40
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 519
+        width: 131
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d4b044d7eb09d44b8ec20ae8155adfc
+      internalID: 350543017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_41
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 268
+        width: 199
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd4fce227828884ca1be212e1885532
+      internalID: -1324523297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_42
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 266
+        width: 195
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf55753a0b819794ab12a5bd65b69b2c
+      internalID: 151133224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_43
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 264
+        width: 178
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee24ce9145563f4e843c21a7d5108be
+      internalID: -1004530987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_44
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 253
+        width: 130
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7a546a0ff4c68246aa3db27120c3d12
+      internalID: 1420175315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_45
+      rect:
+        serializedVersion: 2
+        x: 1126
+        y: 260
+        width: 27
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 202982f876530ca4098de299f34a21dd
+      internalID: 428669450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_46
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 258
+        width: 31
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c39a6ce80a51047a1b1f64387a539e
+      internalID: -2106762604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_47
+      rect:
+        serializedVersion: 2
+        x: 1551
+        y: 445
+        width: 43
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 827f0481d11882145bf88152e8b8f424
+      internalID: -1953080998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_48
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 434
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46f762c6b9ee96e4cafb5105d3a0eecf
+      internalID: 1944308766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_49
+      rect:
+        serializedVersion: 2
+        x: 1643
+        y: 429
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32d9f8cd59faac446994b58729a2f0e5
+      internalID: -968895586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_50
+      rect:
+        serializedVersion: 2
+        x: 1678
+        y: 441
+        width: 45
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bcc14d82b098024b84ccc94b5a52ee9
+      internalID: -422083661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_51
+      rect:
+        serializedVersion: 2
+        x: 1726
+        y: 440
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 761ab64a8b10b9f449edad274011ca45
+      internalID: -1780943085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_52
+      rect:
+        serializedVersion: 2
+        x: 1797
+        y: 463
+        width: 247
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f52007fdca0be744184c63db80f3b9ca
+      internalID: 1510639682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_53
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 0
+        width: 139
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac975ed63d072994a9c03b46caf51ec7
+      internalID: -247742537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Village Props 256x256_54
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 0
+        width: 139
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50c25398f04cd8644b2dc2c7a6d0a8e8
+      internalID: 947182000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Village Props 256x256_0: 420867045
+      Village Props 256x256_1: 393863041
+      Village Props 256x256_10: -433096575
+      Village Props 256x256_11: 221750814
+      Village Props 256x256_12: -225380709
+      Village Props 256x256_13: -272579386
+      Village Props 256x256_14: -776167988
+      Village Props 256x256_15: 862728791
+      Village Props 256x256_16: 472964913
+      Village Props 256x256_17: 547594438
+      Village Props 256x256_18: 576690469
+      Village Props 256x256_19: -2022628119
+      Village Props 256x256_2: -573909288
+      Village Props 256x256_20: 305684757
+      Village Props 256x256_21: 1413500758
+      Village Props 256x256_22: -702158736
+      Village Props 256x256_23: 541020209
+      Village Props 256x256_24: -234461198
+      Village Props 256x256_25: -1212830328
+      Village Props 256x256_26: -89278991
+      Village Props 256x256_27: 1583175547
+      Village Props 256x256_28: 1454883963
+      Village Props 256x256_29: -1772536322
+      Village Props 256x256_3: -423614389
+      Village Props 256x256_30: -1943650039
+      Village Props 256x256_31: -1263822680
+      Village Props 256x256_32: -206813103
+      Village Props 256x256_33: 1672247820
+      Village Props 256x256_34: 124106309
+      Village Props 256x256_35: -1956725079
+      Village Props 256x256_36: -817398142
+      Village Props 256x256_37: -1793957776
+      Village Props 256x256_38: 400610492
+      Village Props 256x256_39: -63829900
+      Village Props 256x256_4: 774934523
+      Village Props 256x256_40: 350543017
+      Village Props 256x256_41: -1324523297
+      Village Props 256x256_42: 151133224
+      Village Props 256x256_43: -1004530987
+      Village Props 256x256_44: 1420175315
+      Village Props 256x256_45: 428669450
+      Village Props 256x256_46: -2106762604
+      Village Props 256x256_47: -1953080998
+      Village Props 256x256_48: 1944308766
+      Village Props 256x256_49: -968895586
+      Village Props 256x256_5: -897875228
+      Village Props 256x256_50: -422083661
+      Village Props 256x256_51: -1780943085
+      Village Props 256x256_52: 1510639682
+      Village Props 256x256_53: -247742537
+      Village Props 256x256_54: 947182000
+      Village Props 256x256_6: 257619102
+      Village Props 256x256_7: -1877307104
+      Village Props 256x256_8: -221133773
+      Village Props 256x256_9: -176424077
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
