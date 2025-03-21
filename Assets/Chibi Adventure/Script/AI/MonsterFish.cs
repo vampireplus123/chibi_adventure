@@ -41,7 +41,7 @@ public class MonsterFish : MonoBehaviour, ICanTakeDamage, IPlayerRespawnListener
 		if (deadFx != null)
 			Instantiate (deadFx, transform.position, Quaternion.identity);
 
-		rig.velocity = Vector2.zero;
+		rig.linearVelocity = Vector2.zero;
 
 		//turn off all colliders if the enemy have
 		var boxCo = GetComponents<BoxCollider2D> ();

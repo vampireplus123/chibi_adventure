@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -105,6 +106,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +128,7 @@ ScriptedImporter:
     pivot: {x: 0.42857143, y: -0.36363637}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -146,6 +149,7 @@ ScriptedImporter:
     pivot: {x: 0.2777778, y: -0.25}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -166,6 +170,7 @@ ScriptedImporter:
     pivot: {x: 0.48571432, y: -0.26666668}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 73
@@ -186,6 +191,7 @@ ScriptedImporter:
     pivot: {x: 0.48571432, y: -0.33333334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -206,6 +212,7 @@ ScriptedImporter:
     pivot: {x: 0.48571432, y: -0.33333334}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 66
@@ -226,6 +233,7 @@ ScriptedImporter:
     pivot: {x: 0.52459013, y: -0.061538465}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -246,6 +254,7 @@ ScriptedImporter:
     pivot: {x: 0.7407407, y: -0.36363637}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -266,6 +275,7 @@ ScriptedImporter:
     pivot: {x: 0.7407407, y: -0.35555556}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -284,13 +294,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: 1104123150
+    guid: 1246915270
     name: Attack-01
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: Attack-01_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -299,7 +309,7 @@ ScriptedImporter:
         width: 35
         height: 44
       spriteId: 55099d95596034a8a8c65e53a2f04549
-    - name: Attack-01_Frame_1
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -308,7 +318,7 @@ ScriptedImporter:
         width: 54
         height: 64
       spriteId: 6dbbabd02192042519dc8e67b8d8ef2e
-    - name: Attack-01_Frame_2
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -317,7 +327,7 @@ ScriptedImporter:
         width: 35
         height: 60
       spriteId: 586eb5cfb534f48caae2f89cc677df6a
-    - name: Attack-01_Frame_3
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -326,7 +336,7 @@ ScriptedImporter:
         width: 35
         height: 48
       spriteId: 397f82735a7444c5da44ac79dc28d997
-    - name: Attack-01_Frame_4
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -335,7 +345,7 @@ ScriptedImporter:
         width: 35
         height: 48
       spriteId: f5de0a9cf272e4e199f0662670ceebdb
-    - name: Attack-01_Frame_5
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -344,7 +354,7 @@ ScriptedImporter:
         width: 61
         height: 65
       spriteId: bc91164d3a32d4cf8b5a4ebafe0e16df
-    - name: Attack-01_Frame_6
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -353,7 +363,7 @@ ScriptedImporter:
         width: 54
         height: 44
       spriteId: f247353ad75d7403c9f3a07fe6021abd
-    - name: Attack-01_Frame_7
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -369,3 +379,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 96, y: 80}
+  previousTextureSize: {x: 128, y: 256}

@@ -42,7 +42,7 @@ public class MonsterIV : MonoBehaviour, ICanTakeDamage, IPlayerRespawnListener {
 
 		springJoint.enabled = false;
 		line.enabled = false;
-		rig.velocity = Vector2.zero;
+		rig.linearVelocity = Vector2.zero;
 		rig.AddForce (new Vector2 (0, 300f));
 	}
 

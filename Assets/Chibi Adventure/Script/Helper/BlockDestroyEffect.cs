@@ -19,7 +19,7 @@ public class BlockDestroyEffect : MonoBehaviour {
 		col.enabled = false;
 		color = rend.color;
 
-		rig.velocity = new Vector2 (Random.Range (forceMin.x, forceMax.x), Random.Range (forceMin.y, forceMax.y));
+		rig.linearVelocity = new Vector2 (Random.Range (forceMin.x, forceMax.x), Random.Range (forceMin.y, forceMax.y));
 		rig.AddTorque (Random.Range (100, 1000));
 	}
 	

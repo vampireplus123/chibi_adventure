@@ -11,7 +11,7 @@ public class SpawnItem : MonoBehaviour {
 	// Use this for initialization
 	void Start () {
 		rig = GetComponent<Rigidbody2D> ();
-		rig.velocity = new Vector2 (Random.Range (minForce.x, maxForce.x), Random.Range (minForce.y, maxForce.y));
+		rig.linearVelocity = new Vector2 (Random.Range (minForce.x, maxForce.x), Random.Range (minForce.y, maxForce.y));
 
 		Destroy (gameObject,timeToLive);
 	}

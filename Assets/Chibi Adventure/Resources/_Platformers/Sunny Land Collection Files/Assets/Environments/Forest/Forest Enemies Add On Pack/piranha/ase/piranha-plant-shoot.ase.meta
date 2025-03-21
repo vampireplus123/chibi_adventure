@@ -8,6 +8,7 @@ ScriptedImporter:
   assetBundleName: 
   assetBundleVariant: 
   script: {fileID: 11500000, guid: 62a9f0aa5b59740cfbadc7e5f9823bb0, type: 3}
+  importerVersion: 1
   textureImporterSettings:
     alphaSource: 1
     mipMapMode: 0
@@ -105,6 +106,7 @@ ScriptedImporter:
     pivot: {x: 0, y: 0}
     alignment: 0
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 0
@@ -126,6 +128,7 @@ ScriptedImporter:
     pivot: {x: 0.50000006, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 101
@@ -146,6 +149,7 @@ ScriptedImporter:
     pivot: {x: 0.43181816, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 101
@@ -166,6 +170,7 @@ ScriptedImporter:
     pivot: {x: 0.34000003, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -186,6 +191,7 @@ ScriptedImporter:
     pivot: {x: 0.62903225, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -206,6 +212,7 @@ ScriptedImporter:
     pivot: {x: 0.7125, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -226,6 +233,7 @@ ScriptedImporter:
     pivot: {x: 0.71951216, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -246,6 +254,7 @@ ScriptedImporter:
     pivot: {x: 0.7125, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -266,6 +275,7 @@ ScriptedImporter:
     pivot: {x: 0.71951216, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -286,6 +296,7 @@ ScriptedImporter:
     pivot: {x: 0.7125, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -306,6 +317,7 @@ ScriptedImporter:
     pivot: {x: 0.71951216, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -326,6 +338,7 @@ ScriptedImporter:
     pivot: {x: 0.7125, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 53
@@ -346,6 +359,7 @@ ScriptedImporter:
     pivot: {x: 0.71951216, y: 0}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
+    customData: 
     rect:
       serializedVersion: 2
       x: 4
@@ -364,13 +378,13 @@ ScriptedImporter:
   spriteSheetImportData: []
   asepriteLayers:
   - layerIndex: 0
-    guid: -932282079
+    guid: -13166875
     name: piranha-plant-shoot
     layerFlags: 0
     layerType: 0
     blendMode: 0
     cells:
-    - name: piranha-plant-shoot_Frame_0
+    - name: Frame_0
       frameIndex: 0
       additiveSortOrder: 0
       cellRect:
@@ -379,7 +393,7 @@ ScriptedImporter:
         width: 61
         height: 45
       spriteId: de6f96337349d4c89a655153dbcef988
-    - name: piranha-plant-shoot_Frame_1
+    - name: Frame_1
       frameIndex: 1
       additiveSortOrder: 0
       cellRect:
@@ -388,7 +402,7 @@ ScriptedImporter:
         width: 61
         height: 45
       spriteId: a1754264115014f4ea2546faaf98183d
-    - name: piranha-plant-shoot_Frame_2
+    - name: Frame_2
       frameIndex: 2
       additiveSortOrder: 0
       cellRect:
@@ -397,7 +411,7 @@ ScriptedImporter:
         width: 61
         height: 45
       spriteId: 744f518dd373c43b0980762284ca6b24
-    - name: piranha-plant-shoot_Frame_3
+    - name: Frame_3
       frameIndex: 3
       additiveSortOrder: 0
       cellRect:
@@ -406,7 +420,7 @@ ScriptedImporter:
         width: 31
         height: 37
       spriteId: f6a55b719d4874c538bf6cb585ef15f5
-    - name: piranha-plant-shoot_Frame_4
+    - name: Frame_4
       frameIndex: 4
       additiveSortOrder: 0
       cellRect:
@@ -415,7 +429,7 @@ ScriptedImporter:
         width: 40
         height: 37
       spriteId: c68d8ede844e145438c1dfc024c2db3a
-    - name: piranha-plant-shoot_Frame_5
+    - name: Frame_5
       frameIndex: 5
       additiveSortOrder: 0
       cellRect:
@@ -424,7 +438,7 @@ ScriptedImporter:
         width: 41
         height: 37
       spriteId: f51a4b155a53d44de8091db4d3be0c96
-    - name: piranha-plant-shoot_Frame_6
+    - name: Frame_6
       frameIndex: 6
       additiveSortOrder: 0
       cellRect:
@@ -433,7 +447,7 @@ ScriptedImporter:
         width: 40
         height: 37
       spriteId: 3f5f66d9f61204b1490ef63b846effe2
-    - name: piranha-plant-shoot_Frame_7
+    - name: Frame_7
       frameIndex: 7
       additiveSortOrder: 0
       cellRect:
@@ -442,7 +456,7 @@ ScriptedImporter:
         width: 41
         height: 37
       spriteId: 34d0c0d0c76aa4dd3889a818755daddf
-    - name: piranha-plant-shoot_Frame_8
+    - name: Frame_8
       frameIndex: 8
       additiveSortOrder: 0
       cellRect:
@@ -451,7 +465,7 @@ ScriptedImporter:
         width: 40
         height: 37
       spriteId: 3dc92729c316f427c80d5b5f4d316dcb
-    - name: piranha-plant-shoot_Frame_9
+    - name: Frame_9
       frameIndex: 9
       additiveSortOrder: 0
       cellRect:
@@ -460,7 +474,7 @@ ScriptedImporter:
         width: 41
         height: 37
       spriteId: 25a014f8e93644dcf826605b9b09be06
-    - name: piranha-plant-shoot_Frame_10
+    - name: Frame_10
       frameIndex: 10
       additiveSortOrder: 0
       cellRect:
@@ -469,7 +483,7 @@ ScriptedImporter:
         width: 40
         height: 37
       spriteId: 359bce4f5d1534553941a463ac83dd92
-    - name: piranha-plant-shoot_Frame_11
+    - name: Frame_11
       frameIndex: 11
       additiveSortOrder: 0
       cellRect:
@@ -485,3 +499,4 @@ ScriptedImporter:
   secondarySpriteTextures: []
   spritePackingTag: 
   canvasSize: {x: 61, y: 45}
+  previousTextureSize: {x: 128, y: 256}
